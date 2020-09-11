@@ -1,0 +1,46 @@
+
+
+		 MEN: 
+
+ Training Status: We are training hard.
+ Communication Level: Our Communication is best.
+ Housekeeping Status: Men do houskeeping.
+ Individual Skill: Java
+
+		 Materials: 
+
+ Purity Level: 10
+ Grade: 2
+ Sampling: 3
+ Storage Capacity: 100
+
+		 Methods: 
+
+ Mobile Phase: 2
+ Injection Volume: 20
+ Buffer Strength: 200
+ Temperature: 37
+ Flow Rate: 25
+ PH: 7
+
+		 Measurements: 
+
+ Sensitivity: Highly Sensitive.
+ Sampling Rate: 9
+ Integration: Integrated Properly.
+ Reporting: Effecient Reporting.
+
+		 Milieu: 
+
+ Contamination: Low Contamination.
+ Temperature: 45
+ Humidity: 8
+ Light: Strong Sunlight.
+
+		 Machines: 
+
+ Detector: Pressure Detector
+ Auto Sampler: Okay.
+ Injector: Insulin Injector.
+ Oven: Microwave.
+ Column: 3
